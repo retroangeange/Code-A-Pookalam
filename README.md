@@ -10,15 +10,22 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Hosted Pookalam Link
+https://github.com/retroangeange/Code-A-Pookalam/commit/f83e7640931e9fd980f81e344ab5bf6066863dee
 
 
 
 ### Pookalam Description
 Brief description about your pookalam. What makes it special and different.
+Pure css and html
+Made by few colours
+Very minimal
+
 
 
 
 ### Technologies Used 
+HTML,CSS
+coded with the help of ai tools
 
 
 ### Video explaining How you build the pookalam
@@ -27,6 +34,9 @@ Brief description about your pookalam. What makes it special and different.
 
 ### Screenshots
 
+![alt text](<Screenshot (204)-1.png>)
+![alt text](<Screenshot (202)-2.png>)
+![alt text](<Screenshot (203).png>)
 
 
 Happy Onam ! <br>
